@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme="pixyll"
+
+[indexes]
+  category = "categories"
+  tag = "tags"
+
+[params]
+  #search_engine = true
+  #google_analytics_id = ""
+  twitter_username = "username"
+  paginate = 5
