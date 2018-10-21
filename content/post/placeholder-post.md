@@ -1,7 +1,7 @@
 ---
 title: "Placeholder Post"
 date: 2018-06-18T15:02:52+02:00
-draft: false
+draft: true
 author: "admin"
 tags: ["placeholder"]
 ---
