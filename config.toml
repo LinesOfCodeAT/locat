@@ -1,6 +1,6 @@
 baseURL = "https://agitated-franklin-20fcaa.netlify.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Lines of Code"
 theme="pixyll"
 
 [indexes]
