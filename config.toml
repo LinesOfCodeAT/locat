@@ -10,5 +10,5 @@ theme="pixyll"
 [params]
   #search_engine = true
   #google_analytics_id = ""
-  twitter_username = "username"
+  #twitter_username = "username"
   paginate = 5
